@@ -24,38 +24,34 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
+
 class ImalinNijitha:
     def __init__(self):
         self.name        = "Imalin Nijitha I"
         self.location    = "Nagercoil, Tamil Nadu, India"
         self.degree      = "B.Tech – Information Technology (CGPA: 8.4)"
         self.college     = "Francis Xavier Engineering College, Tirunelveli"
-
         self.stack = [
             "Python", "SQL", "Power BI", "Tableau",
             "Machine Learning", "LangGraph", "Flask",
             "NumPy", "Pandas", "Scikit-learn", "Plotly"
         ]
-
         self.currently_learning = [
             "LangGraph & Agentic AI Workflows",
             "Advanced Generative AI (LLMs, RAG)",
             "MLOps & Model Deployment",
         ]
-
         self.fun_fact = (
             "I once built an AI that reads legal contracts "
             "so lawyers don't have to! ⚖️🤖"
         )
-
     def motto(self):
         return "Data is the new oil — I'm here to refine it. 🔥"
 
 
 me = ImalinNijitha()
 print(me.motto())
-```
+
 
 <br clear="right"/>
 
@@ -125,14 +121,6 @@ print(me.motto())
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imalinnijitha&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imalinnijitha&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ---
