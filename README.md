@@ -27,12 +27,7 @@
 🌍 &nbsp;**Location** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Nagercoil, Tamil Nadu, India
 🎓 &nbsp;**Degree** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ B.Tech – Information Technology (CGPA: 8.4)
 🏫 &nbsp;**College** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Francis Xavier Engineering College, Tirunelveli
-💼 &nbsp;**Currently** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ AI Intern @ Infosys — LangGraph & AI Model Training
-🔭 &nbsp;**Building** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ AI Tool to Read & Analyze Legal Contracts
-🌱 &nbsp;**Learning** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ LangGraph · RAG · MLOps · Generative AI
-🛠️ &nbsp;**Stack** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Python · SQL · Power BI · Tableau · Scikit-learn · Flask
 💬 &nbsp;**Ask me about** → Data Analytics · ML · Power BI Dashboards · AI Agents
-⚡ &nbsp;**Fun fact** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ I built an AI that reads legal contracts so lawyers don't have to! ⚖️🤖
 ✨ &nbsp;**Motto** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ *"Data is the new oil — I'm here to refine it. 🔥"*
 
 <br clear="right"/>
@@ -78,19 +73,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/imalinnijitha">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=imalinnijitha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/imalinnijitha">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imalinnijitha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
-</div>
-
----
-
 ## 🔥 Streak Stats
 
 <div align="center">
@@ -103,14 +85,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imalinnijitha&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imalinnijitha&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ---
